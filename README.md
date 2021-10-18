@@ -11,8 +11,7 @@
 
 
 
-### Welcome to my GitHub  
-I have started my web development journey in January 2021 and fell in love with coding ❤️  
+### Welcome to my GitHub    
   
 
 <br/>  
